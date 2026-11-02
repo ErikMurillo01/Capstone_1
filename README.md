@@ -1,29 +1,43 @@
-# Capstone_1: Business Analysis With Excel and SQL 
+# Capstone 1: Business Analysis with SQL and Excel
 
+## Project Overview
 
-Project Overview
+This project analyzes sales data for EmporiUm, a fictional bookstore and technology retailer. SQL is used to query and analyze the data, while Microsoft Excel is used to create a PivotChart that communicates key findings.
 
-This project analyzes sales data for EmporiUm, a fictional bookstore and technology retailer. SQL is used to query and analyze the data, and Excel is used to create a PivotChart that communicates key findings.
-
-Sales Territory
+## Sales Territory
 
 To be confirmed with my instructor.
 
-Tools
+## Tools
 
-MySQL Workbench
-Microsoft Excel
-GitHub and GitHub Desktop
+- MySQL Workbench
+- Microsoft Excel
+- GitHub
+- GitHub Desktop
 
-Key Analysis
+## Key Analysis
 
-Total revenue and transaction date range
-Revenue by year and month
-Territory revenue compared with regional revenue
-Monthly transaction counts and average transaction amounts by product category
-Store- or state-level sales performance rankings
-Recommendations for next quarter's sales priorities
+This project will address the following business questions:
 
-Presentation
+1. Calculate total revenue and identify the earliest and latest transaction dates.
+2. Analyze revenue by year and month.
+3. Compare sales territory revenue with regional revenue.
+4. Analyze monthly transaction counts and average transaction amounts by product category.
+5. Rank stores or states by sales performance, depending on the assigned territory.
+6. Recommend sales priorities for the next quarter based on the analysis.
 
-10-minute project video link: To be added.
+## Deliverables
+
+- SQL script containing the six analyses and supporting comments.
+- Excel workbook containing exported query results and at least one PivotChart.
+- README documenting the project and sales territory.
+- A 10-minute recorded project presentation.
+
+## Presentation
+
+**Project video:** To be added.
+
+## Project Status
+
+In progress.
+
