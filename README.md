@@ -39,5 +39,5 @@ This project will address the following business questions:
 
 ## Project Status
 
-In progress.
+In progress...
 
