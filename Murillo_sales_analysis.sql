@@ -46,7 +46,8 @@ GROUP BY Management.Region;
 Select YEAR(Transaction_Date) As Year ,Month(Transaction_Date) As Month, Count(Transaction_Date) As Total_per_month
 From Store_Sales JOIN Store_Locations ON Store_Sales.Store_ID= Store_Locations.StoreId
 WHERE Store_Locations.State='Texas'
-Group by YEAR(Transaction_Date),MONTH(Transaction_Date);
+Group by YEAR(Transaction_Date),MONTH(Transaction_Date)
+Order by 1 ASC, 2 ASC;
 
 SELECT Inventory_Categories.Category, AVG(Sale_Amount) AS Average_Sale
 FROM Inventory_Categories JOIN Products ON Inventory_Categories.Categoryid=Products.Categoryid JOIN Store_Sales ON Products.ProdNum= Store_Sales.Prod_Num
