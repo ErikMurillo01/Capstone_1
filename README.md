@@ -1,28 +1,18 @@
-Capstone 1: Data Storytelling, Excel & SQL
-Project Overview
-This project analyzes sales data for EmporiumU, a fictional bookstore and technology retailer. SQL is used to query and analyze sales data, while Excel will be used to communicate key findings through a PivotChart.
-Sales Territory
-* State: Texas
-* Region: South
-* Sales Channel: In-store
-Project Progress
-* ☑ Question 1: Calculate total revenue and identify the start and end dates of the data.
-* ☑ Question 2: Analyze revenue by year and month.
-* ☑ Question 3: Compare Texas revenue with the South region.
-* ☑ Question 4: Calculate monthly transaction counts and average transaction amounts by product category.
-* ☐ Question 5: Rank Texas stores by sales performance.
-* ☐ Question 6: Recommend where to focus sales attention next quarter.
-Tools
-* MySQL Workbench
-* SQL
-* Microsoft Excel
-* GitHub
-Deliverables
-* murillo_sales_analysis.sql — SQL analysis script
-* Excel workbook with analysis and a PivotChart
-* Video demonstration and presentation
-Status
-In progress.
+Progress Update — November 4, 2026
+Completed
+* Connected to the sample_sales database using MySQL Workbench.
+* Analyzed total Texas in-store revenue and the transaction date range.
+* Analyzed monthly revenue trends for Texas.
+* Compared Texas revenue with total South region revenue.
+* Calculated monthly transaction counts for Texas.
+* Calculated average sale amounts by product category.
+* Ranked Texas stores by total revenue.
+* Drafted a recommendation for next quarter based on product category revenue.
+In Progress
+* Finalizing and reviewing the SQL analysis script.
+* Exporting SQL results to Excel.
+* Creating the required Excel PivotChart.
+* Preparing the video demonstration and project presentation.
 
 
 
