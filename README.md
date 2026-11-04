@@ -1,18 +1,31 @@
-Progress Update — November 4, 2026
-Completed
-* Connected to the sample_sales database using MySQL Workbench.
-* Analyzed total Texas in-store revenue and the transaction date range.
-* Analyzed monthly revenue trends for Texas.
-* Compared Texas revenue with total South region revenue.
-* Calculated monthly transaction counts for Texas.
-* Calculated average sale amounts by product category.
-* Ranked Texas stores by total revenue.
-* Drafted a recommendation for next quarter based on product category revenue.
-In Progress
-* Finalizing and reviewing the SQL analysis script.
-* Exporting SQL results to Excel.
-* Creating the required Excel PivotChart.
-* Preparing the video demonstration and project presentation.
+Texas Sales Territory Analysis
+Project Overview
+Analyzing Texas in-store sales using SQL and Excel to identify revenue trends, compare regional performance, and evaluate store sales.
+
+Tools: MySQL Workbench, Excel, GitHub
+Territory: Texas
+Region: South
+
+Key Findings
+* Total Texas revenue: $3,417,850.01
+* South region revenue: $7,996,850.12
+* Top revenue category: Technology & Accessories ($2,445,117.66)
+
+Deliverables
+* Murillo_sales_analysis.sql — SQL analysis queries.
+* Murillo_Territory_Chart.xlsx — Excel PivotTable and PivotChart.
+
+Recommendation
+
+Prioritize Technology & Accessories next quarter due to its strong revenue performance.
+
+Project Status
+* SQL analysis completed.
+* Excel PivotChart completed.
+* Files uploaded to GitHub.
+* Video demonstration and class presentation remaining.
+
+Video Link: To be added.
 
 
 
